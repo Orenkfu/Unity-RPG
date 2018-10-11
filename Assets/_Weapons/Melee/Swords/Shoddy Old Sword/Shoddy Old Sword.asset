@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de47d0306793d5b48a71130c1ea1d553, type: 3}
+  m_Name: Shoddy Old Sword
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 1277290872445230, guid: 0982ce6c23f616d4bae4c222799510a6,
+    type: 2}
+  gripTransform: {fileID: 4753255518326550, guid: 0fc8c38dcb43d2a459c0ef78fedf65aa,
+    type: 2}
+  animation: {fileID: 7400000, guid: 58f2909dff975b54c8395d479180996e, type: 3}
+  damage: 15
+  secondsBetweenAttacks: 0.6
+  weaponRange: 2

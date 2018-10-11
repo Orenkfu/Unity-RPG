@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fe51f7be0b0475449cd6e9c5466c0e6, type: 3}
+  m_Name: HealConditionHandler
+  m_EditorClassIdentifier: 
+  conditions:
+  - {fileID: 114211946273410948, guid: 9d40d4ee76c444843a60d383ee04397c, type: 2}
+  - {fileID: 114028114317745516, guid: 18f8e47f1a177904c9e1ff91331a7ef6, type: 2}

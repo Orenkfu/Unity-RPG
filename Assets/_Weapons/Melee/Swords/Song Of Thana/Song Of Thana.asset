@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de47d0306793d5b48a71130c1ea1d553, type: 3}
+  m_Name: Song Of Thana
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 100000, guid: 335b72359e4abfe4abe08982595c71eb, type: 2}
+  gripTransform: {fileID: 4060520091633054, guid: b0cc1cca3b89d0b4688d2d7e961c26dd,
+    type: 2}
+  animation: {fileID: 7400000, guid: 7b5b17e2d42e0424f9c36012595dc9b6, type: 3}
+  damage: 40
+  secondsBetweenAttacks: 1.1
+  weaponRange: 1.5
